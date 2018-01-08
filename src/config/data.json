@@ -1,0 +1,33 @@
+{
+  "home": {
+    "image": "",
+    "text": "TESTING 123"
+  },
+  "work": {
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet nibh mollis, pretium lorem ac, aliquet nunc. Suspendisse hendrerit condimentum massa, sed posuere urna semper in. Mauris sagittis faucibus erat nec mattis. Praesent a justo nec nibh eleifend laoreet. Nullam blandit leo vitae arcu accumsan, ut consectetur felis laoreet. In scelerisque efficitur libero eget bibendum. Nullam eleifend sed metus tempus molestie. Fusce facilisis vulputate lorem vel ultrices. Suspendisse dictum ex turpis. Ut ultricies egestas purus. Nam imperdiet pretium sapien vitae dignissim. Mauris pellentesque aliquam lectus, eget fringilla dolor faucibus ac. Duis quis lorem nec metus pharetra dapibus. Sed malesuada ipsum euismod viverra convallis. Fusce nec dapibus neque. Phasellus sit amet erat id ex finibus efficitur non sit amet dolor. Nullam eget aliquam ipsum. Nulla et erat nunc. Pellentesque quis arcu egestas nisl pretium congue. Proin nulla orci, ornare sed imperdiet ac, feugiat vitae nisl. Fusce vitae feugiat diam. Maecenas molestie dignissim enim, et laoreet dui pretium quis."
+  },
+  "travel": {
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet nibh mollis, pretium lorem ac, aliquet nunc."
+  },
+  "blog": {
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet nibh mollis, pretium lorem ac, aliquet nunc.",
+    "mediumLink": ""
+  },
+  "social": [
+    {
+      "title": "linkedIn",
+      "link": "",
+      "icon": "fa fa-linkedin"
+    },
+    {
+      "title": "medium",
+      "link": "",
+      "icon": "fa fa-medium"
+    },
+    {
+      "title": "email",
+      "link": "",
+      "icon": "fa fa-envelope"
+    }
+  ]
+}
