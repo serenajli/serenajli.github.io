@@ -1,0 +1,20 @@
+[
+  {
+    "country": "Canada",
+    "city": "Toronto",
+    "lat": 43.6532,
+    "lng": -79.3832
+  },
+  {
+    "country": "United States",
+    "city": "Los Angeles",
+    "lat": 34.0522,
+    "lng": -118.2437
+  },
+  {
+    "country": "Canada",
+    "city": "Vancouver",
+    "lat": 49.2827,
+    "lng": -123.1207
+  }
+]

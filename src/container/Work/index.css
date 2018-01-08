@@ -1,0 +1,18 @@
+.work-logos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  width: 60%;
+  margin: 2rem auto;
+}
+
+.work-logos img {
+  height: 2em;
+  margin: 1rem 1rem;
+}
+
+@media (max-width: 650px) {
+  .work-logos img {
+    height: 3rem;
+  }
+}
